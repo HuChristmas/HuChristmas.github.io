@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huchristmas.github.io/"/>
-  <updated>2017-03-06T01:14:15.720Z</updated>
+  <updated>2017-03-06T10:53:02.682Z</updated>
   <id>https://huchristmas.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://huchristmas.github.io/2017/03/06/%E6%B5%8B%E8%AF%95-1/"/>
+    <id>https://huchristmas.github.io/2017/03/06/测试-1/</id>
+    <published>2017-03-06T10:53:02.000Z</published>
+    <updated>2017-03-06T10:53:02.682Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://huchristmas.github.io/2017/03/06/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://huchristmas.github.io/2017/03/06/测试/</id>
+    <published>2017-03-06T10:52:21.557Z</published>
+    <updated>2017-03-06T10:52:21.931Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我来测一测&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Test1</title>
